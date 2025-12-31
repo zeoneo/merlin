@@ -2957,7 +2957,7 @@
  */
 
 #ifndef PROBING_MARGIN
-  #define PROBING_MARGIN 0
+  #define PROBING_MARGIN 10
 #endif
 
 #if IS_KINEMATIC
